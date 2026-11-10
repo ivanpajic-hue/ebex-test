@@ -1,0 +1,110 @@
+[
+  {
+    "name": "Render market",
+    "pass": true
+  },
+  {
+    "name": "Render favorites",
+    "pass": true
+  },
+  {
+    "name": "Render listing/l1",
+    "pass": true
+  },
+  {
+    "name": "Render listing/l2",
+    "pass": true
+  },
+  {
+    "name": "Render orders",
+    "pass": true
+  },
+  {
+    "name": "Render orders/EB-1042",
+    "pass": true
+  },
+  {
+    "name": "Render seller",
+    "pass": true
+  },
+  {
+    "name": "Render sell",
+    "pass": true
+  },
+  {
+    "name": "Render messages",
+    "pass": true
+  },
+  {
+    "name": "Render premium",
+    "pass": true
+  },
+  {
+    "name": "Render profile",
+    "pass": true
+  },
+  {
+    "name": "Render test",
+    "pass": true
+  },
+  {
+    "name": "Render admin/overview",
+    "pass": true
+  },
+  {
+    "name": "Render admin/users",
+    "pass": true
+  },
+  {
+    "name": "Render admin/listings",
+    "pass": true
+  },
+  {
+    "name": "Render admin/orders",
+    "pass": true
+  },
+  {
+    "name": "Render admin/disputes",
+    "pass": true
+  },
+  {
+    "name": "Render admin/finance",
+    "pass": true
+  },
+  {
+    "name": "Render admin/shipping",
+    "pass": true
+  },
+  {
+    "name": "Render admin/config",
+    "pass": true
+  },
+  {
+    "name": "Render admin/premium",
+    "pass": true
+  },
+  {
+    "name": "Render admin/audit",
+    "pass": true
+  },
+  {
+    "name": "Kupovina, pakovanje, BEX uručenje i isplata kroz UI",
+    "pass": true
+  },
+  {
+    "name": "Scenario reklamacije i moderatorska zabrana",
+    "pass": true
+  },
+  {
+    "name": "Dogovor kroz chat i formalna ponuda do kupovine",
+    "pass": true
+  },
+  {
+    "name": "Premium aktivacija i audit trag kroz UI",
+    "pass": true
+  },
+  {
+    "name": "Promena profila poništava identitet i račun",
+    "pass": true
+  }
+]

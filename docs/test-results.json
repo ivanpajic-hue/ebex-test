@@ -1,0 +1,154 @@
+[
+  {
+    "name": "Besplatan C2C oglas sa verifikovanim telefonom",
+    "pass": true
+  },
+  {
+    "name": "Kontakt podaci u oglasu idu na moderaciju",
+    "pass": true
+  },
+  {
+    "name": "Telefon, e-mail i spoljni link u chatu se blokiraju",
+    "pass": true
+  },
+  {
+    "name": "Lično preuzimanje i zaobilaženje platforme se blokiraju",
+    "pass": true
+  },
+  {
+    "name": "Kupovina rezerviše oglas i ima pouzeće",
+    "pass": true
+  },
+  {
+    "name": "Ponovljen zahtev kupovine ne stvara duplu pošiljku",
+    "pass": true
+  },
+  {
+    "name": "Rezervisan predmet nije moguće ponovo kupiti",
+    "pass": true
+  },
+  {
+    "name": "Kontakt režim zahteva prihvaćenu formalnu ponudu",
+    "pass": true
+  },
+  {
+    "name": "Sopstvena ponuda ne može se prihvatiti",
+    "pass": true
+  },
+  {
+    "name": "Istekla ponuda nije važeća",
+    "pass": true
+  },
+  {
+    "name": "Vredniji predmet bez dokaza ne ide u slanje",
+    "pass": true
+  },
+  {
+    "name": "Fotografija pakovanja otključava BEX preuzimanje",
+    "pass": true
+  },
+  {
+    "name": "Uručenje evidentira jedno COD knjiženje",
+    "pass": true
+  },
+  {
+    "name": "Dupli COD događaj ne duplira finansijsku evidenciju",
+    "pass": true
+  },
+  {
+    "name": "Zakasneli transport ne vraća status unazad",
+    "pass": true
+  },
+  {
+    "name": "Isplata pre naplate odbija se i može kasnije da se ponovi",
+    "pass": true
+  },
+  {
+    "name": "Isplata čeka dospeće narednog dana",
+    "pass": true
+  },
+  {
+    "name": "Dupla potvrda isplate ne duplira knjiženje",
+    "pass": true
+  },
+  {
+    "name": "Reklamacija pre isplate aktivira PAYOUT_HOLD",
+    "pass": true
+  },
+  {
+    "name": "Reklamacija pre zakasnelog uručenja zadržava isplatu",
+    "pass": true
+  },
+  {
+    "name": "Prijava nakon izvršene isplate ne prikazuje zamrznut novac",
+    "pass": true
+  },
+  {
+    "name": "Nedostupna BEX hold podrška ostavlja zahtev nepotvrđen",
+    "pass": true
+  },
+  {
+    "name": "Moderator ne može da oslobodi isplatu",
+    "pass": true
+  },
+  {
+    "name": "Finansijska odluka zahteva razlog i ostavlja audit trag",
+    "pass": true
+  },
+  {
+    "name": "Povrat ide preko BEX-a i zahteva uručenje pre refundacije",
+    "pass": true
+  },
+  {
+    "name": "Račun trećeg lica sprečava isplatu",
+    "pass": true
+  },
+  {
+    "name": "Neproveren identitet sprečava isplatu",
+    "pass": true
+  },
+  {
+    "name": "Otkazivanje pre slanja oslobađa rezervaciju bez refundacije",
+    "pass": true
+  },
+  {
+    "name": "Istek predaje oslobađa rezervaciju",
+    "pass": true
+  },
+  {
+    "name": "Automobili i nekretnine nisu dozvoljene kategorije",
+    "pass": true
+  },
+  {
+    "name": "Premium oznaka traje samo do isteka testnog perioda",
+    "pass": true
+  },
+  {
+    "name": "Cene se obračunavaju celobrojno iz konfiguracije",
+    "pass": true
+  },
+  {
+    "name": "Testni izvoz može da se učita uz proveru formata",
+    "pass": true
+  },
+  {
+    "name": "Idempotency ključ ne prihvata izmenjene podatke kupovine",
+    "pass": true
+  },
+  {
+    "name": "Nove porudžbine koriste pomeren testni sat",
+    "pass": true
+  },
+  {
+    "name": "Dokaz pakovanja se određuje prema prihvaćenoj ceni",
+    "pass": true
+  },
+  {
+    "name": "Ista BEX referenca ne može imati drugačiji tip događaja",
+    "pass": true
+  },
+  {
+    "name": "Rešena reklamacija čuva podatke i dokaze u arhivi",
+    "pass": true
+  }
+]

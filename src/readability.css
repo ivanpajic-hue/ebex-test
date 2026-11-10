@@ -1,0 +1,24 @@
+/* Final contrast, readable secondary text and keyboard access. */
+:root{--muted:#68756e}
+.skip-link{position:absolute;top:-80px;left:16px;z-index:300;background:#fff;color:#273e30;border:2px solid #597c61;padding:12px 18px;border-radius:9px}
+.skip-link:focus{top:10px}
+.product-title{font-size:13px}.product-meta{font-size:11px;color:#6b776f}.product-footer{font-size:10px;color:#6b776f}.mode-tag{font-size:10px;color:#5f7766}.product-footer .icon{color:#58775f}
+.hero-copy>p{font-size:13px;color:#5c705f}.hero .micro{font-size:11px;color:#617560}.hero-buttons .text-btn{font-size:12px}
+.benefit strong{font-size:12px}.benefit span{font-size:11px;color:#6f7b72}.category{font-size:11px;color:#637368}.section-heading p{font-size:12px;color:#6f7a72}
+.navbar{font-size:13px}.navbar a{color:#67756c}.header .search input{font-size:13px}.account-trigger small{color:#6d796f}
+.chip{min-height:32px;font-size:11px;color:#667568}.sorter,.sorter select{font-size:11px;color:#667568}.premium-badge{font-size:9px}
+.product-price{font-size:17px}.product-price small{font-size:11px}.product-meta .icon{width:12px;height:12px}
+.seller-card .meta,.seller-list .meta,.table-sub,.order-card .top,.timeline-row .time{color:#6f7b70;font-size:11px}
+.detail-info .sub{font-size:12px;color:#6c786e}.detail-info .description{color:#5d6e62}.detail-attrs span{color:#68786b}.detail-attrs{font-size:12px}
+.buy-box>p{color:#687d68;font-size:11px}.buy-box .row{font-size:12px}.page-head p,.field small,.readonly-note{color:#687769}
+.banner p{font-size:12px;color:#7b6b58}.banner h3{font-size:18px}.footer{font-size:11px;color:#6d7b6b}.footer button{font-size:11px;color:#6d7b6b}
+.stat .note{color:#6f8168;font-size:11px}.stat .label{color:#6f7e6b;font-size:12px}.tabs button,.tabs a{color:#6a7a66}
+.tagline{font-size:12px}.field,.field label{font-size:12px}.field input,.field select,.field textarea{font-size:13px}.checkline{font-size:12px;color:#65785e}
+.step{font-size:12px}.table-wrap table{font-size:12px}.table-wrap th{font-size:11px;color:#67765f}.finance-status .label{color:#6a7b5f;font-size:11px}
+.test-controls p{color:#7e6a47;font-size:11px}.test-controls summary{cursor:pointer}.test-controls{gap:12px}.test-controls>div{margin-top:12px}
+.chat-safety{font-size:11px;color:#6a7c5b}.conversation p,.chat-head p,.message .meta{font-size:11px;color:#6e7d62}
+.sidenav .group-label{color:#7b8d6c}.plan p,.plan small{font-size:12px;color:#6e7e61}.plan li{font-size:12px;color:#607753}.help-grid p{color:#657b59;font-size:12px}
+.test-scenario p{font-size:12px;color:#6c7e5f}.modal-header p{font-size:12px;color:#6d7b5e}.verification p{font-size:11px;color:#6b7e5d}
+.notification-item p,.notification-item .tiny{color:#6f7c5d}.modal-close{flex:none}.text-btn.muted{color:#6b7768}
+@media(max-width:900px){.product-title{font-size:12px}.product-meta,.product-footer,.mode-tag{font-size:10px}.benefit strong{font-size:11px}.benefit span{font-size:10px}.category{font-size:10px}.hero-copy>p{font-size:12px}}
+@media(max-width:650px){.topbar{justify-content:flex-end}.topbar>.row:first-child{display:none}.product-title{font-size:12px}.product-price{font-size:16px}.product-meta{font-size:10px}.product-footer,.mode-tag{font-size:9px}.section-heading p{font-size:11px}.category{font-size:10px}.navbar{font-size:11px}.hero .micro{font-size:10px}.benefit strong{font-size:10px}.benefit span{font-size:10px}.hero-buttons .text-btn{font-size:11px}.footer,.footer button{font-size:10px}.mobile-nav a,.mobile-nav button{font-size:9px;color:#687a5c}.mobile-nav .active{color:var(--coral-dark)}.mobile-nav .sell-mobile{color:#fff}.chat-safety{font-size:10px}.field input,.field select,.field textarea,.chat-input input,.search input{font-size:16px}.chip{font-size:10px}.seller-list .meta,.table-sub,.order-card .top,.timeline-row .time{font-size:10px}.step{font-size:10px}.banner p{font-size:11px}.banner h3{font-size:15px}.product-footer .row{gap:2px}.help-grid p{font-size:12px}}
